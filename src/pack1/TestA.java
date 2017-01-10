@@ -22,6 +22,7 @@ public class TestA
 	{
 		driver.get("http://www.google.com");
 		System.out.println("URL Launched in browser");
+		System.out.println("URL Launched in browser");
 		
 	}
 
