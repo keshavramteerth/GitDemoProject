@@ -18,10 +18,11 @@ public class TestA
 	}
 
 	@Test
-	public void testOne() 
+	public void testOne1() 
 	{
 		driver.get("http://www.google.com");
 		System.out.println("URL Launched");
+		
 	}
 
 	
